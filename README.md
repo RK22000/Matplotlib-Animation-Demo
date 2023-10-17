@@ -6,4 +6,5 @@ To get started with the demo create the directory called `data/` in the root of 
 
 In the demo I show how matplotlib could be used to easily create an animation like this
 
-<video src="population.mp4" controls></video>
+<!-- <video src="population.mp4" controls></video> -->
+![Demo of animation created in matplotlib](population.gif)
