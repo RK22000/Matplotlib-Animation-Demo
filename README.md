@@ -10,3 +10,13 @@ In the demo I show how matplotlib could be used to easily create an animation li
 ![Demo of animation created in matplotlib](population.gif)
 
 Try it right now by running 27 lines of [animation_demo.py](animation_demo.py), or look through how I developed the demo by reading through the [notebook](main.ipynb) that I was prototyping in.
+
+Also check out [bouncyball.ipynb](bouncyball.ipynb) to see how bliting can seriously boost animation speed
+
+No Blit
+
+![animation with no blit](bounce_no_blit.gif)
+
+With Blit
+
+![animation with blit](bounce_blit.gif)
