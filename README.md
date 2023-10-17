@@ -9,4 +9,4 @@ In the demo I show how matplotlib could be used to easily create an animation li
 <!-- <video src="population.mp4" controls></video> -->
 ![Demo of animation created in matplotlib](population.gif)
 
-Try it right now by running 27 lines of [animation_demo.py](animation_demo.py), or 
+Try it right now by running 27 lines of [animation_demo.py](animation_demo.py), or look through how I developed the demo by reading through the [notebook](main.ipynb) that I was prototyping in.
